@@ -1,6 +1,7 @@
 # Gmail-to-chatwork
 
 Gmailの未読メールの本文をchatworkに通知して既読処理してくれるGoogle Apps Scriptです。
+slackに飛ばしたい方はコチラ! [shyazusa/gmail-to-slack](https://github.com/shyazusa/gmail-to-slack)
 
 ## 使用手順
 
