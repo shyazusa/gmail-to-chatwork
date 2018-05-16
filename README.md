@@ -1,4 +1,4 @@
-# [Gmail-to-chatwork](https://shyazusa.github.io/gmail-to-chatwork/)
+# Gmail-to-chatwork
 
 Gmailの未読メールの本文をchatworkに通知して既読処理してくれるGoogle Apps Scriptです。
 
