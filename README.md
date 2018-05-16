@@ -5,7 +5,7 @@ Gmailの未読メールの本文をchatworkに通知して既読処理してく�
 ## 使用手順
 
 1. chatworkのapi_keyをコピるなりしてメモる
-2. `code.gs`内でapi_key, room_idの設定をする
+2. `code.gs`内で`api_key`, `room_id`の設定をする
 3. Googleスプレッドシートを新規作成
 4. ツール → スクリプトエディタ
 5. コード記述欄に出来上がった`code.gs`をペースト，保存
